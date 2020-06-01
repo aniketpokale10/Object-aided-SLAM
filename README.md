@@ -1,0 +1,1 @@
+This code is used to check if integrating object observation in the bundle adjustment of SLAM improves the SLAM results. Objects are represented as wireframe models.
